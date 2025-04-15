@@ -3,8 +3,6 @@
 #include <time.h>
 #define N 20
 
-
-
 // codigo a completar
 int main()
 {
