@@ -1,0 +1,5 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No, no se puede ver el archivo tp2_1_2.c ya que estoy en la rama main. Y ese archivo fue creado y commiteado únicamente en la rama Opcion_2.
+
+En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+noto que el archivo de Respuestas.txt pertenece al main y no se vincula ni tiene relacion con la rama de Opcion_2.
