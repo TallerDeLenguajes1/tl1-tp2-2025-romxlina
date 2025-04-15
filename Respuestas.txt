@@ -3,3 +3,6 @@ No, no se puede ver el archivo tp2_1_2.c ya que estoy en la rama main. Y ese arc
 
 En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
 noto que el archivo de Respuestas.txt pertenece al main y no se vincula ni tiene relacion con la rama de Opcion_2.
+
+En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+Puedo ver como hice "merge" y ahora si se relaciona la rama y el merge.
